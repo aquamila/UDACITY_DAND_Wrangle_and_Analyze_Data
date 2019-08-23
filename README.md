@@ -7,13 +7,11 @@ The dataset used in this project is the tweet archive of twitter user [@dog_rate
 
 The main goal of the project is wrangling WeRateDogs Twitter data to create interesting analysis and visualizations. Since the twitter archive contains very basic tweet information, there was additional data gathering for getting more useful for further analysis information.
 
-I gathered, assessed and cleaned data, analyze the dataset and then communicated my findings about it in [act_report.pdf](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/act_report.pdf). 
+I gathered, assessed and cleaned data, analyzed the dataset and then communicated my findings about it in [act_report.pdf](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/act_report.pdf). 
 
-I shared all the steps in the Jupiter Notebook file [wrangle_act.ipynb](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/wrangle_act.ipynb) and partially in [wrangle_report.pdf](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/wrangle_report.pdf).
+I shared all the steps in the Jupiter Notebook file [wrangle_act.ipynb](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/wrangle_act.ipynb) and in [wrangle_report.pdf](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/wrangle_report.pdf) in a summary form..
 
 ## Data
-
-There are three data sources:
 
 1. [twitter_archive_enhanced.csv](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/twitter_archive_enhanced.csv) which is the WeRateDogs twitter account archive in csv-format and can be downloaded manually here. 
 
