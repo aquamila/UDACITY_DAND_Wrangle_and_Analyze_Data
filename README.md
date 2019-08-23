@@ -13,7 +13,7 @@ I shared all the steps in the Jupiter Notebook file [wrangle_act.ipynb](https://
 
 ## Data
 
-1. [twitter_archive_enhanced.csv](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/twitter_archive_enhanced.csv) which is the WeRateDogs twitter account archive in csv-format and can be downloaded manually here. 
+1. [twitter_archive_enhanced.csv](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/twitter_archive_enhanced.csv) which is the WeRateDogs twitter account archive in csv-format and was downloaded manually [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv). 
 
 2. [image_predictions.tsv](https://github.com/aquamila/UDACITY_Wrangle_and_Analyze_Data/blob/master/image_predictions.tsv) with predictions what breed of dog (or other object, animal, etc.) is present in each tweet. This file was downloaded programmatically using the Requests library from the [following url](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv). 
 
