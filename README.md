@@ -3,7 +3,7 @@
 
 ## Overview
 
-The dataset used in this project is the tweet archive of twitter user [@dog_rates](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-iJ_I9JfkAhWDT98KHf5FBdwQ6F56BAgKEAI&url=https%3A%2F%2Ftwitter.com%2Fdog_rates%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&usg=AOvVaw0JC6sX84zCg78EBo8iE3yn), also known as WeRateDogs. It is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10, and the numerators are very often greater than 10. WeRateDogs has over 4 million followers and has received international media coverage.
+The dataset used in this project is the tweet archive of twitter user [@dog_rates](https://twitter.com/dog_rates), also known as WeRateDogs. It is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10, and the numerators are very often greater than 10. WeRateDogs has over 4 million followers and has received international media coverage.
 
 The main goal of the project is wrangling WeRateDogs Twitter data to create interesting analysis and visualizations. Since the twitter archive contains very basic tweet information, there was additional data gathering for getting more useful for further analysis information.
 
