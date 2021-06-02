@@ -1,4 +1,4 @@
-# UDACITY | Data Analyst Nanodegree Program 2019
+# UDACITY | Data Analyst Nanodegree Program
 # Project 4 Wrangle and Analyze Data
 
 ## Overview
