@@ -1,5 +1,5 @@
 # UDACITY | Data Analyst Nanodegree Program
-# Project 4 Wrangle and Analyze Data
+# Wrangle and Analyze Data
 
 ## Overview
 
