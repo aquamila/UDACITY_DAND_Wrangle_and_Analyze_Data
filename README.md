@@ -1,5 +1,4 @@
-# UDACITY | Data Analyst Nanodegree Program
-# Wrangle and Analyze Data
+# WeRateDogs Twitter Analysis
 
 ## Overview
 
